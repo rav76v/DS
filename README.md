@@ -1,2 +1,1 @@
-# DS
-DS LearnIT
+# Opis projektu DS
